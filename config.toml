@@ -1,0 +1,40 @@
+languageCode = "en-us"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://tcastillo.me"
+paginate = 5
+DisqusShortname = "theMoss"
+Copyright = "All rights reserved - 2015"
+title = "Being Mas"
+
+[params]
+  description = "Pushing yourself to the edge only awakens the soul."
+  cover = "images/dollySods_cover_CP.jpg"
+  author = "Tomás Castillo"
+  authorlocation = "Pittsburgh, PA, USA"
+  authorwebsite = "http://tcastillo.me"
+  bio= "Ultra runner. Technophile. Beekeeper. Hobbyist-Photographer."
+  # logo = "images/logo.png"
+  #googleAnalyticsUserID = "UA-79101-12"
+  githubName = "elShambler"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+[indexes]
+	tag = "tags"
+	topic = "topics"
+	
+[[menu.main]]
+  name = "My Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About me"
+  weight = -110
+  identifier = "about"
+  url = "/about"
