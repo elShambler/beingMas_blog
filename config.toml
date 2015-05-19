@@ -6,7 +6,7 @@ publishdir = "public"
 builddrafts = false
 baseurl = "http://tcastillo.me"
 paginate = 5
-DisqusShortname = "theMoss"
+DisqusShortname = "beingmas"
 Copyright = "All rights reserved - 2015"
 title = "Being Mas"
 
