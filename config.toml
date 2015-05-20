@@ -18,7 +18,7 @@ title = "Being Mas"
   authorwebsite = "http://tcastillo.me"
   bio= "Ultra runner. Technophile. Beekeeper. Hobbyist-Photographer."
   # logo = "images/logo.png"
-  #googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = "UA-63191839-1"
   githubName = "elShambler"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
