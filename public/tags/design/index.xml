@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Being Mas</title>
-    <link>http://tcastillo.me/post/</link>
-    <description>Recent content in Posts on Being Mas</description>
+    <title>Design on Being Mas</title>
+    <link>http://tcastillo.me/tags/design/</link>
+    <description>Recent content in Design on Being Mas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Wed, 20 May 2015 18:09:40 +0000</lastBuildDate>
-    <atom:link href="http://tcastillo.me/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tcastillo.me/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blogging With Hugo</title>
@@ -55,15 +55,6 @@ greater efficiency in the future. For now, this method will have to work.&lt;/p&
 &lt;p&gt;Next thing to try is symlinks and/or rsync to just copy the files directly for nginx
 to serve.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Reasons to Switch to Hugo</title>
-      <link>http://tcastillo.me/post/post-title/</link>
-      <pubDate>Tue, 12 May 2015 15:18:47 -0400</pubDate>
-      
-      <guid>http://tcastillo.me/post/post-title/</guid>
-      <description></description>
     </item>
     
   </channel>
