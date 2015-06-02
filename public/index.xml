@@ -7,8 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
-    <lastBuildDate>Wed, 20 May 2015 18:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2015 17:47:02 +0000</lastBuildDate>
     <atom:link href="http://tcastillo.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://tcastillo.me/about/</link>
+      <pubDate>Tue, 02 Jun 2015 17:47:02 +0000</pubDate>
+      
+      <guid>http://tcastillo.me/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;who-am-i:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Who Am I?&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m a normal guy working a normal job but try and push myself to
+be more than just a desk slave.&lt;/p&gt;
+
+&lt;p&gt;I spend time running through the trails and getting a full dose of the outdoors.
+I have begun running ultramarathons, but am still fairly new to the scene.&lt;/p&gt;
+
+&lt;p&gt;Other areas that I dabble in (i.e. hobbies, and not a professional) include:
++ Photography
++ Coding
++ Woodworking
++ Beekeeping&lt;/p&gt;
+
+&lt;p&gt;Thanks for checking me out!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blogging With Hugo</title>
@@ -55,15 +81,6 @@ greater efficiency in the future. For now, this method will have to work.&lt;/p&
 &lt;p&gt;Next thing to try is symlinks and/or rsync to just copy the files directly for nginx
 to serve.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Reasons to Switch to Hugo</title>
-      <link>http://tcastillo.me/post/post-title/</link>
-      <pubDate>Tue, 12 May 2015 15:18:47 -0400</pubDate>
-      
-      <guid>http://tcastillo.me/post/post-title/</guid>
-      <description></description>
     </item>
     
   </channel>
