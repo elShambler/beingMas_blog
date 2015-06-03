@@ -4,10 +4,12 @@ draft = false
 title = "ABOUT ME"
 +++
 
-<img src="/images/headshot.jpeg" 
-style="width: 25%; height: 25%;">
+
 
 ## Who Am I? 
+
+<img src="/images/headshot.jpeg" 
+style="float: right; padding-left: 50px; margin-left: -120px; margin-right: 200px; width: 25%; height: 25%;">
 
 I'm a normal guy working a normal job but try and push myself to
 be more than just a desk slave.
