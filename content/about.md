@@ -8,7 +8,7 @@ title = "ABOUT ME"
 ## Who Am I? 
 
 <img src="/images/headshot.jpeg" 
-style="float: right; padding: 50px 75px; margin: -150px -120px; width: 250px; height: 375px;">
+style="float: right; padding: 50px 75px; margin: -150px -120px; width: 25%; height: 25%;">
 
 I'm a normal guy working a normal job but try and push myself to
 be more than just a desk slave.
