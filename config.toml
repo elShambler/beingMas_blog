@@ -38,3 +38,8 @@ title = "Being Mas"
   weight = -110
   identifier = "about"
   url = "/about"
+  
+[[menu.main]]
+  name = "Running"
+  weight = -100
+  url = "/topics/running"

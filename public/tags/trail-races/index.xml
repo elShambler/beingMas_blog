@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Being Mas</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Being Mas</description>
+    <title>Trail Races on Being Mas</title>
+    <link>http://localhost:1313/tags/trail-races/</link>
+    <description>Recent content in Trail Races on Being Mas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Thu, 04 Jun 2015 15:13:32 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/trail-races/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pennsylvania&#39;s Steepest Race</title>
@@ -133,53 +133,6 @@ technical portions that also make it challenging.&lt;/p&gt;
 &lt;p&gt;The beauty of trail running is each race offers its own set of
 challenges. I think the lesson to learn here is you may need to try
 each one to determine which is the most challenging for yourself!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blogging With Hugo</title>
-      <link>http://localhost:1313/post/bloggingwithhugo/</link>
-      <pubDate>Wed, 20 May 2015 18:09:40 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/bloggingwithhugo/</guid>
-      <description>
-
-&lt;h3 id=&#34;hello-world:837b790d0077db53636026f3d2aee5f3&#34;&gt;Hello World&lt;/h3&gt;
-
-&lt;p&gt;I have finally decided to do something with this website of mine.
-For a while it&amp;rsquo;s been sitting here with a static page on top, but with some spare time
-and a bit of desire for a challenge, I have updated the site. The goal will be to
-continue to blog on it, while adding additional content to the site.&lt;/p&gt;
-
-&lt;p&gt;My main focus will be some of my random adventures in life, but at the same time I&amp;rsquo;ll
-be blogging from time to time about my trials of maintaining this site.&lt;/p&gt;
-
-&lt;p&gt;I built the site using &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; and picked up a theme called
-&lt;a href=&#34;https://github.com/vjeantet/hugo-theme-casper&#34;&gt;Casper&lt;/a&gt;. It&amp;rsquo;s a little tricky
-since I&amp;rsquo;m going about the blog in an odd fashion. First I edit files on my computer
-at work/home/phone. Then I use git to push the content to github. Then, when I get
-a chance, I&amp;rsquo;ll use git to pull the changed content on my VPS with Digital Ocean. Once there,
-I use Hugo to generate the static pages for the content, which is then copied
-to a separate location which is where NGINX picks up the content and puts it
-on the web.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-Steps&#34;&gt;hugo new -t casper post/BloggingWithHugo.md
-** Write blog post in notepad **
-
-git push https://github.com/elShambler/beingMas_blog
-
-** Log in to VPS **
-git pull
-hugo -t casper
-cp -r public/* &amp;lt;/location/for/nginx/host&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Convoluted and most likely unnecessary. Because this is my first real experience with
-maintaing a webserver, it is a constant learning process. With any luck, I will have
-greater efficiency in the future. For now, this method will have to work.&lt;/p&gt;
-
-&lt;p&gt;Next thing to try is symlinks and/or rsync to just copy the files directly for nginx
-to serve.&lt;/p&gt;
 </description>
     </item>
     
