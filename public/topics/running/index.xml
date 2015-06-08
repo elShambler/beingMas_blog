@@ -37,7 +37,7 @@ I have attempted to answer a piece of that puzzle.&lt;/p&gt;
 &lt;h3 id=&#34;the-races-with-hills:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;The Races With Hills&lt;/h3&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;It&amp;rsquo;s a hill - get over it!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It&amp;rsquo;s a hill - get over it!&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;In my time here in Pennsylvania, I&amp;rsquo;ve heard the names of different
@@ -49,7 +49,8 @@ estimated elevation gain, and even if it does, you can&amp;rsquo;t always
 trust it (I&amp;rsquo;m looking at you Rock&amp;rsquo;N The Knob). You also can&amp;rsquo;t trust the
 advertised miles - actually, nor the ruuners&amp;hellip; well,
 especially the runners that like to challenge themselves and
-add extra off-course miles (I do this quite often&amp;hellip; some people call it getting lost).&lt;/p&gt;
+add extra off-course miles (I do this quite often&amp;hellip; some people call it getting lost).
+To assist with accuracy, I gathered together GPS data for the different races.&lt;/p&gt;
 
 &lt;p&gt;I put together a small list of &amp;ldquo;challening&amp;rdquo; races
 and pulled out their elevation gain in feet and divided
@@ -67,6 +68,17 @@ it by the total miles of the race, based on data recorded from racers.&lt;/p&gt;
 &lt;li&gt;Rothrock Challenge&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;em&gt;ADDED&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Frozen Snot&lt;/li&gt;
+&lt;li&gt;Laurel Highlands (50K)&lt;/li&gt;
+&lt;li&gt;Worlds End Ultra&lt;/li&gt;
+&lt;li&gt;Worlds End Ultra (50K)&lt;/li&gt;
+&lt;li&gt;Dirty Kiln Half Marathon&lt;/li&gt;
+&lt;li&gt;Pittsburgh Marathon&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;Hopefully I can update/add to this list as I do more research and get more suggestions.&lt;/p&gt;
 
 &lt;h3 id=&#34;results:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Results&lt;/h3&gt;
@@ -74,13 +86,17 @@ it by the total miles of the race, based on data recorded from racers.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/SteepPA/SteepestPARace.jpg&#34; alt=&#34;Graph of vertical gain (ft) per mile&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;By purely looking at numbers, the Wilds Marathon has the most vertical gain per mile at 258 ft/mile,
+&lt;p&gt;By purely looking at numbers, the Frozen Snot is by far the steepest race with 389 ft/mile.
+What makes that race even more of a challenge is the fact that it&amp;rsquo;s held at the end of
+January. Aside from that, the Wilds Marathon has the second most vertical gain per mile at 258 ft/mile,
 with the Hyner View Challenge (50K) coming in closely behind it at 256 ft/mile.&lt;/p&gt;
 
 &lt;p&gt;Below you can see for yourself, all the numbers that went into the graph above.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/SteepPA/RaceData.jpg&#34; alt=&#34;Race data&#34; /&gt;
 &lt;/p&gt;
+
+&lt;p&gt;I decided to add in the Pittsburgh Marathon for reference on how a &amp;ldquo;hilly&amp;rdquo; road race compares.&lt;/p&gt;
 
 &lt;h3 id=&#34;data:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Data&lt;/h3&gt;
 
@@ -99,24 +115,30 @@ but finding the data was hard).&lt;/p&gt;
 
 &lt;p&gt;The distance category for the race should be obvious,
 that&amp;rsquo;s where you know the distance you&amp;rsquo;re signing up for&amp;hellip;
-roughly. In reality you&amp;rsquo;re the Eastern States, it may depend
-on how lost you get, whereas the Rothrock Challenge, it might
-be an extra challenge.&lt;/p&gt;
+roughly.&lt;/p&gt;
 
-&lt;p&gt;For the most part, the quoted distance is what was obtained.
-All races cannot guarantee you&amp;rsquo;ll run the exact amount, and it
-may depend on the course you take. The one interesting result
+&lt;p&gt;For the most part, the reported distance is what was ran.
+The data used here was the GPS recorded distance. I compiled
+different racer&amp;rsquo;s data, and averaged them together. I tried to
+ensure the GPS route followed the plotted course for the race,
+although this was more of a rough estimate. I also tried to make
+sure the distance made sense and that the runners finished the
+course.&lt;/p&gt;
+
+&lt;p&gt;All races cannot guarantee you&amp;rsquo;ll run the exact amount that was
+initially advertised though, and it may depend on the
+course you take (i.e. getting lost). The one interesting result
 was the Laurel Highlands coming in about 3 miles short. I haven&amp;rsquo;t
 run the race, so I&amp;rsquo;m not sure where the discrepancy would come in.
 Potentially, the uphill + downhill gains could make up the 3 miles.&lt;/p&gt;
 
 &lt;h5 id=&#34;elevation:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Elevation&lt;/h5&gt;
 
-&lt;p&gt;This was the main data that I used for my thoughts here.
+&lt;p&gt;Elevation was the main data that I used for my thoughts here.
 Elevation is a tricky thing. I won&amp;rsquo;t go into the details, but
 &lt;a href=&#34;http://regex.info/blog/2015-05-09/2568&#34;&gt;Jeff Friedl&lt;/a&gt; blogged about
-how Strava may inflate their elevation numbers. It&amp;rsquo;s very difficult to
-tell, and quite honestly, I used Strava for 95% of what I did here,
+how Strava may inflate/overestimate their elevation numbers. It&amp;rsquo;s very difficult to
+tell, and quite honestly, I used Strava for 95% of my data,
 so at least they&amp;rsquo;re all consistently inflated (hopefully).&lt;/p&gt;
 
 &lt;p&gt;I, again, used the same method of just pulling different

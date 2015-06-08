@@ -40,6 +40,7 @@ trust it (I'm looking at you Rock'N The Knob). You also can't trust the
 advertised miles - actually, nor the ruuners... well, 
 especially the runners that like to challenge themselves and 
 add extra off-course miles (I do this quite often... some people call it getting lost).
+To assist with accuracy, I gathered together GPS data for the different races.
 
 I put together a small list of "challening" races
 and pulled out their elevation gain in feet and divided
@@ -54,6 +55,15 @@ So far the races are as follows (in alphabetical order):
  - Megatransect
  - Rock'N the Knob
  - Rothrock Challenge
+ 
+ *ADDED*
+ 
+ - Frozen Snot
+ - Laurel Highlands (50K)
+ - Worlds End Ultra
+ - Worlds End Ultra (50K)
+ - Dirty Kiln Half Marathon
+ - Pittsburgh Marathon
 
 Hopefully I can update/add to this list as I do more research and get more suggestions.
 
@@ -61,12 +71,17 @@ Hopefully I can update/add to this list as I do more research and get more sugge
 
 ![Graph of vertical gain (ft) per mile](/images/SteepPA/SteepestPARace.jpg)
 
-By purely looking at numbers, the Wilds Marathon has the most vertical gain per mile at 258 ft/mile, 
+By purely looking at numbers, the Frozen Snot is by far the steepest race with 389 ft/mile.
+What makes that race even more of a challenge is the fact that it's held at the end of
+January. Aside from that, the Wilds Marathon has the second most vertical gain per mile at 258 ft/mile, 
 with the Hyner View Challenge (50K) coming in closely behind it at 256 ft/mile.
+
 
 Below you can see for yourself, all the numbers that went into the graph above.
 
 ![Race data](/images/SteepPA/RaceData.jpg)
+
+I decided to add in the Pittsburgh Marathon for reference on how a "hilly" road race compares.
 
 ### Data
 Since the crux of what I'm saying relies on data that I put together, 
