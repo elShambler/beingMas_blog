@@ -27,7 +27,7 @@ I have attempted to answer a piece of that puzzle.
 
 ### The Races With Hills
 
-> **It's a hill - get over it!**
+> *It's a hill - get over it!*
 
 
 In my time here in Pennsylvania, I've heard the names of different 
@@ -84,23 +84,29 @@ but finding the data was hard).
 
 The distance category for the race should be obvious, 
 that's where you know the distance you're signing up for... 
-roughly. In reality you're the Eastern States, it may depend 
-on how lost you get, whereas the Rothrock Challenge, it might 
-be an extra challenge.
+roughly.
 
-For the most part, the quoted distance is what was obtained. 
-All races cannot guarantee you'll run the exact amount, and it 
-may depend on the course you take. The one interesting result 
+For the most part, the reported distance is what was ran. 
+The data used here was the GPS recorded distance. I compiled
+different racer's data, and averaged them together. I tried to
+ensure the GPS route followed the plotted course for the race,
+although this was more of a rough estimate. I also tried to make
+sure the distance made sense and that the runners finished the
+course.
+
+All races cannot guarantee you'll run the exact amount that was
+initially advertised though, and it may depend on the
+course you take (i.e. getting lost). The one interesting result 
 was the Laurel Highlands coming in about 3 miles short. I haven't
 run the race, so I'm not sure where the discrepancy would come in.
 Potentially, the uphill + downhill gains could make up the 3 miles.
 
 ##### Elevation
-This was the main data that I used for my thoughts here. 
+Elevation was the main data that I used for my thoughts here. 
 Elevation is a tricky thing. I won't go into the details, but 
 [Jeff Friedl](http://regex.info/blog/2015-05-09/2568) blogged about 
-how Strava may inflate their elevation numbers. It's very difficult to 
-tell, and quite honestly, I used Strava for 95% of what I did here, 
+how Strava may inflate/overestimate their elevation numbers. It's very difficult to 
+tell, and quite honestly, I used Strava for 95% of my data, 
 so at least they're all consistently inflated (hopefully).
 
 I, again, used the same method of just pulling different 
