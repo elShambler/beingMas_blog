@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Running on Being Mas</title>
-    <link>http://localhost:1313/topics/running/</link>
+    <link>http://tcastillo.me/topics/running/</link>
     <description>Recent content in Running on Being Mas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Thu, 04 Jun 2015 15:13:32 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/topics/running/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tcastillo.me/topics/running/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pennsylvania&#39;s Steepest Race</title>
-      <link>http://localhost:1313/post/SteepestRacePA/</link>
+      <link>http://tcastillo.me/post/SteepestRacePA/</link>
       <pubDate>Thu, 04 Jun 2015 15:13:32 -0400</pubDate>
       
-      <guid>http://localhost:1313/post/SteepestRacePA/</guid>
+      <guid>http://tcastillo.me/post/SteepestRacePA/</guid>
       <description>
 
 &lt;h3 id=&#34;the-spark-of-the-project:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;The Spark of the Project&lt;/h3&gt;
@@ -83,7 +83,7 @@ it by the total miles of the race, based on data recorded from racers.&lt;/p&gt;
 
 &lt;h3 id=&#34;results:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Results&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/SteepPA/SteepestPARace.jpg&#34; alt=&#34;Graph of vertical gain (ft) per mile&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://tcastillo.me/images/SteepPA/SteepestPARace.jpg&#34; alt=&#34;Graph of vertical gain (ft) per mile&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;By purely looking at numbers, the Frozen Snot is by far the steepest race with 389 ft/mile.
@@ -93,7 +93,7 @@ with the Hyner View Challenge (50K) coming in closely behind it at 256 ft/mile.&
 
 &lt;p&gt;Below you can see for yourself, all the numbers that went into the graph above.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/SteepPA/RaceData.jpg&#34; alt=&#34;Race data&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://tcastillo.me/images/SteepPA/RaceData.jpg&#34; alt=&#34;Race data&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;I decided to add in the Pittsburgh Marathon for reference on how a &amp;ldquo;hilly&amp;rdquo; road race compares.&lt;/p&gt;
