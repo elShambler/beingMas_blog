@@ -33,7 +33,7 @@ I read it, thought it sounded epic, and decided right then and there to look it 
 into their waiting list. My thought process was something like - "If I sign up, maybe it'll give me motivation to train for it next year when I actually get in." So I signed up.
 
 As I started running more on the trails, I was also nursing a knee injury that the doctors told me I needed surgery for. I actually went as far as scheduling the surgery. However,
-after running more on the trails, and doing cross-training with picking up crossfit, my knee actually started feeling better. I canceled the surgery.
+after running more on the trails, and doing cross-training with picking up crossfit, my knee actually started feeling better. I canceled the surgery. This came with a bit of a cost, since I was being tender with my knee, I was not running very much.
 
 #### Training
 ![I made it off the wait list!](/images/2014Rut/EmailConfirmation.jpg)
