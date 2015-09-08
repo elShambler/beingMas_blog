@@ -17,10 +17,10 @@ writing a race report and decided this would be the best time to do so.
 ### Overview
 The Rut is becoming a very popular race as it is one of the few true sky/mountain races
 in the USA. It is featured in the SkyRunner World Series, along with the USA Series.
-Last year (when I ran it) it featured top athletes such as [Kilian Jornet](https://en.wikipedia.org/wiki/K%C3%ADlian_Jornet_Burgada)
+Last year (when I ran it) it featured top male and female athletes such as [Kilian Jornet](https://en.wikipedia.org/wiki/K%C3%ADlian_Jornet_Burgada)
 , [Sage Canaday](http://sagecanaday.com/athlete/), and [Adam Campbell](http://running.competitor.com/2014/07/trail-running/runner-struck-lightning-keeps-running_107955)
- (among others), and Emelie Forsberg, Kasie Enman, and Anna "Frosty" Frost. The race director is Mike Foote 
- (who got 2nd this year at Hardrock 100, behind Kilian) and put together quite an
+ (among others), and for the femails: Emelie Forsberg, Kasie Enman, and Anna "Frosty" Frost. 
+ The race director is Mike Foote (who got 2nd this year at Hardrock 100, behind Kilian) and put together quite an
 epic course.
 
 #### Backstory
@@ -91,7 +91,7 @@ was probably like, "Wow! We're high".
 
 #### Climbing
 
-![GoPro of ascending portion of race](<iframe width="420" height="315" src="https://www.youtube.com/embed/aBO8IFbnp5E" frameborder="0" allowfullscreen></iframe>)
+<iframe width="420" height="315" src="https://www.youtube.com/embed/aBO8IFbnp5E" frameborder="0" allowfullscreen></iframe>
 
 This portion of the race really blew my mind as it was just completely different than anything I could've expected to run. I don't remember the name of this section, and I'm sure
 other race reports out there may have a more detailed description of this, but this marked the first real big climb. I believe it was around mile 12 climbing up to one of the summits.
