@@ -25,10 +25,10 @@ epic course.
 
 #### Backstory
 In May of 2014, I moved to Pittsburgh, PA from Houston, TX. Not going to lie, I had a challenging time with the transition and saying goodbye to my home, family, and friends.
-In an attempt to find fulfillment in my new city and home, I decided to focus on running - trail running. With this new determiniation, I figured I should start reading
+In an attempt to find fulfillment in my new city and home, I decided to focus on running - trail running. With this new mindset, I figured I should start reading
 about it too - so I picked up an issue of Trail Runner Magazine to begin this new hobby of mine.
 
-The magazine has a section called "Featured Races" and this particular magazine had one titled ["The Rut 50k"](http://trailrunnermag.com/races/15-featured-races/1466-the-rut-50k).
+The magazine has a section called "Featured Races" and this particular article had one titled ["The Rut 50k"](http://trailrunnermag.com/races/15-featured-races/1466-the-rut-50k).
 I read it, thought it sounded epic, and decided right then and there to look it up on my computer. Sure enough, it was sold out... but they were accepting names
 into their waiting list. My thought process was something like - "If I sign up, maybe it'll give me motivation to train for it next year when I actually get in." So I signed up.
 
