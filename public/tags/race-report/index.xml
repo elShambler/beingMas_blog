@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trail Races on Being Mas</title>
-    <link>http://tcastillo.me/tags/trail-races/</link>
-    <description>Recent content in Trail Races on Being Mas</description>
+    <title>Race Report on Being Mas</title>
+    <link>http://tcastillo.me/tags/race-report/</link>
+    <description>Recent content in Race Report on Being Mas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Fri, 04 Sep 2015 10:09:04 -0400</lastBuildDate>
-    <atom:link href="http://tcastillo.me/tags/trail-races/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tcastillo.me/tags/race-report/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Rut 2014 - Race Report</title>
@@ -98,154 +98,6 @@ amount of air. Walking it was.&lt;/p&gt;
 &lt;p&gt;Once I figured that lesson out, the race became a little more manageable. I ran when I could, walked fast on the uphills. I tried running the downhills quickly, but was no match
 for the more experienced runners. I watched their technique as they seemed to glide over rocky downhill terrain that looked like it could roll a few ankles. I tried to keep at my
 own pace and not focus too much on the fact that I was being passed a lot.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pennsylvania&#39;s Steepest Race</title>
-      <link>http://tcastillo.me/post/SteepestRacePA/</link>
-      <pubDate>Thu, 04 Jun 2015 15:13:32 -0400</pubDate>
-      
-      <guid>http://tcastillo.me/post/SteepestRacePA/</guid>
-      <description>
-
-&lt;h3 id=&#34;the-spark-of-the-project:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;The Spark of the Project&lt;/h3&gt;
-
-&lt;p&gt;A few days ago, I went on a run with the North Park Trail Runners,
-and a discussion came up about different races people signed up for.
-It inevitably led to a conversation about how tough each race is.
-Don&amp;rsquo;t get me wrong, if you are doing a race, it will be challenging
-no matter what - if it&amp;rsquo;s flat, you&amp;rsquo;re probably pushing your body to
-go real fast; if it&amp;rsquo;s a little hilly, maybe you&amp;rsquo;re sprinting up all
-the hills; or if it&amp;rsquo;s very steep, you&amp;rsquo;ll be walking up the climbs and
-running down the hills or trotting (and even the downhill can be
-challenging based on the terrain).&lt;/p&gt;
-
-&lt;p&gt;So while there is no one true metric to answer the question
-of &amp;ldquo;what is the most challenging race?&amp;rdquo;,
-I have attempted to answer a piece of that puzzle.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-races-with-hills:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;The Races With Hills&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;It&amp;rsquo;s a hill - get over it!&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In my time here in Pennsylvania, I&amp;rsquo;ve heard the names of different
-races thrown around - Rothrock Challenge, Megatransect, Lost Turkey, etc.
-I tried going through some of those races and quantifying the vertical gain per mile.&lt;/p&gt;
-
-&lt;p&gt;The tricky thing here is that not every race advertises its
-estimated elevation gain, and even if it does, you can&amp;rsquo;t always
-trust it (I&amp;rsquo;m looking at you Rock&amp;rsquo;N The Knob). You also can&amp;rsquo;t trust the
-advertised miles - actually, nor the ruuners&amp;hellip; well,
-especially the runners that like to challenge themselves and
-add extra off-course miles (I do this quite often&amp;hellip; some people call it getting lost).
-To assist with accuracy, I gathered together GPS data for the different races.&lt;/p&gt;
-
-&lt;p&gt;I put together a small list of &amp;ldquo;challening&amp;rdquo; races
-and pulled out their elevation gain in feet and divided
-it by the total miles of the race, based on data recorded from racers.&lt;/p&gt;
-
-&lt;p&gt;So far the races are as follows (in alphabetical order):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Call of the Wilds Marathon&lt;/li&gt;
-&lt;li&gt;Eastern States 100&lt;/li&gt;
-&lt;li&gt;Hyner View Challenge&lt;/li&gt;
-&lt;li&gt;Laurel Highlands Ultra&lt;/li&gt;
-&lt;li&gt;Megatransect&lt;/li&gt;
-&lt;li&gt;Rock&amp;rsquo;N the Knob&lt;/li&gt;
-&lt;li&gt;Rothrock Challenge&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;ADDED&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Frozen Snot&lt;/li&gt;
-&lt;li&gt;Laurel Highlands (50K)&lt;/li&gt;
-&lt;li&gt;Worlds End Ultra&lt;/li&gt;
-&lt;li&gt;Worlds End Ultra (50K)&lt;/li&gt;
-&lt;li&gt;Dirty Kiln Half Marathon&lt;/li&gt;
-&lt;li&gt;Pittsburgh Marathon&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hopefully I can update/add to this list as I do more research and get more suggestions.&lt;/p&gt;
-
-&lt;h3 id=&#34;results:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tcastillo.me/images/SteepPA/SteepestPARace.jpg&#34; alt=&#34;Graph of vertical gain (ft) per mile&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;By purely looking at numbers, the Frozen Snot is by far the steepest race with 389 ft/mile.
-What makes that race even more of a challenge is the fact that it&amp;rsquo;s held at the end of
-January. Aside from that, the Wilds Marathon has the second most vertical gain per mile at 258 ft/mile,
-with the Hyner View Challenge (50K) coming in closely behind it at 256 ft/mile.&lt;/p&gt;
-
-&lt;p&gt;Below you can see for yourself, all the numbers that went into the graph above.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tcastillo.me/images/SteepPA/RaceData.jpg&#34; alt=&#34;Race data&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;I decided to add in the Pittsburgh Marathon for reference on how a &amp;ldquo;hilly&amp;rdquo; road race compares.&lt;/p&gt;
-
-&lt;h3 id=&#34;data:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Data&lt;/h3&gt;
-
-&lt;p&gt;Since the crux of what I&amp;rsquo;m saying relies on data that I put together,
-I think it is worthwhile noting where it came from. I tried to gather
-together blog race reports and the numbers that people reported there,
-but I was also able to track down some data from publicly available sources (i.e. Strava).&lt;/p&gt;
-
-&lt;p&gt;To be thorough with my results, I tried using a decent sample size to
-get an average worth reporting since I know the way GPS works varies
-between watches and the different algorithms companies utilize.
-Decent sample size meant 4 or more people (not that many, I know,
-but finding the data was hard).&lt;/p&gt;
-
-&lt;h5 id=&#34;distance:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Distance&lt;/h5&gt;
-
-&lt;p&gt;The distance category for the race should be obvious,
-that&amp;rsquo;s where you know the distance you&amp;rsquo;re signing up for&amp;hellip;
-roughly.&lt;/p&gt;
-
-&lt;p&gt;For the most part, the reported distance is what was ran.
-The data used here was the GPS recorded distance. I compiled
-different racer&amp;rsquo;s data, and averaged them together. I tried to
-ensure the GPS route followed the plotted course for the race,
-although this was more of a rough estimate. I also tried to make
-sure the distance made sense and that the runners finished the
-course.&lt;/p&gt;
-
-&lt;p&gt;All races cannot guarantee you&amp;rsquo;ll run the exact amount that was
-initially advertised though, and it may depend on the
-course you take (i.e. getting lost). The one interesting result
-was the Laurel Highlands coming in about 3 miles short. I haven&amp;rsquo;t
-run the race, so I&amp;rsquo;m not sure where the discrepancy would come in.
-Potentially, the uphill + downhill gains could make up the 3 miles.&lt;/p&gt;
-
-&lt;h5 id=&#34;elevation:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Elevation&lt;/h5&gt;
-
-&lt;p&gt;Elevation was the main data that I used for my thoughts here.
-Elevation is a tricky thing. I won&amp;rsquo;t go into the details, but
-&lt;a href=&#34;http://regex.info/blog/2015-05-09/2568&#34;&gt;Jeff Friedl&lt;/a&gt; blogged about
-how Strava may inflate/overestimate their elevation numbers. It&amp;rsquo;s very difficult to
-tell, and quite honestly, I used Strava for 95% of my data,
-so at least they&amp;rsquo;re all consistently inflated (hopefully).&lt;/p&gt;
-
-&lt;p&gt;I, again, used the same method of just pulling different
-racer&amp;rsquo;s GPS Elevation gain data and then averaged at the end.&lt;/p&gt;
-
-&lt;h3 id=&#34;final-thoughts:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Final Thoughts&lt;/h3&gt;
-
-&lt;p&gt;Does this mean that the Wilds Marathon is the toughest race in PA?
-Heck no! The distance of the Eastern States add a whole new element
-of pain to the table. But then you have Rothrock and Megatransect
-that both add a layer of complexity with the amount of rocks and
-technical portions that also make it challenging.&lt;/p&gt;
-
-&lt;p&gt;The beauty of trail running is each race offers its own set of
-challenges. I think the lesson to learn here is you may need to try
-each one to determine which is the most challenging for yourself!&lt;/p&gt;
 </description>
     </item>
     
