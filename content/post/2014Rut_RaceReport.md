@@ -46,8 +46,8 @@ Houston has no hills, and I quickly learned that running on the trails where the
 into account many hills and long distancese.
 
 I think I learned a lot in those 6 weeks I had to train: I learned how to run on rocky terrain (kind of); I got better at running on a treadmill for long periods of time since a
-bachelor party to Las Vegas left me with that option for getting hill work in; and I pushed myself to go long distance by myself and self-sustained. Come September 13th, I was as
-ready... or at least as much as I could've with really only 6 weeks of training.
+bachelor party to Las Vegas left me with one option for getting hill work in; and I pushed myself to go long distance by myself and self-sustained. Come September 13th, I was 
+ready... or at least as ready as I could've been with really only 6 weeks of training.
 
 ### Pre-Race
 
