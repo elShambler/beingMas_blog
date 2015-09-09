@@ -163,3 +163,7 @@ One year later, I look back at that race as still one of my proudest and toughes
 of good excuses - but the Trail Runner author Rachel Toor really gave me the push I needed (after getting me into the race in the first place), and I dug deep
 and was able to finish. I'll take a last place finish over DNF anytime. I was indeed extremely grateful for the opportunity to run the race. I didn't get a chance to go back this
 past year, but hopefully can improve my finish next time I make it out.
+
+If you haven't had enough to see yet, check this video out - produced by the makers of the Rut. [Experience the Rut - Episode 2](https://youtu.be/dQoS--WFRzI)
+
+Thanks for reading!
