@@ -54,15 +54,10 @@ ready... or at least as ready as I could've been with really only 6 weeks of tra
 ![Airport view of Bozeman Mountains](/images/2014Rut/AirportView.jpg)
 
 I flew in to Bozeman Montana all hyped up and ready to take on the challenge of the race. In order to acclimatize to the altitude better, I flew in 12 hours before the race (*joke*).
-It actually worked out really well because my college roommate (3 out of 4 years) lived in Bozeman, so I was grateful that I go to spend time with the great Danny Z. It turned out
-to be poor timing on my end because Danny was in his best friend's wedding that weekend (maybe just coincidental). Either way, though, it allowed me a place to stay, and I got to
-meet some of his friends and help out a little before the wedding.
+It actually worked out really well because my college roommate (3 out of 4 years) lived in Bozeman, so I was grateful that I go to spend time with the great Danny Z. He helped me out a ton with giving me a place to stay, and a car to drive as well, along with just being able to catch up with him.
 
-The venue for the wedding was actually spectacular. I took some time and helped his friend and fiance unload tables and chairs and move stuff around. The venue wasn't fully finished
-at the time, but they were making it work. I took some pictures, got to the know the groom and bride, and then borrowed Danny's car as I drove off to the Big Sky resort for check-in.
-
-By the time I was driving up to the mountain, I realized it was too late - I couldn't abandon ship now... I had already paid my entry fee, paid for a flight, and what's worse is I told
-DZ and his lover friends that I would be running the race, so backing out would seem pretty lame. The issue was - Lone Peak (THE mountain at Big Sky) is a **BIG** mountain, and at
+As I was driving towards Big Sky for the pre-race check in, I realized it was too late - I couldn't abandon ship now... I had already paid my entry fee, paid for a flight (I was in Montana!), and what's worse is I told
+DZ and his friends that I would be running the race, so backing out would seem pretty lame. The issue was - Lone Peak (THE mountain at Big Sky) is a **BIG** mountain, and at
 11,166 ft, I was beginning to question whether I had really thought this out and trained properly. Nonetheless, the atmosphere was quite energetic and I was almost mezmerized myself
 in the fact that I actually made it and was about to embark on an extremely challenging but amazing adventure!
 
