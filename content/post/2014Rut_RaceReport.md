@@ -19,7 +19,7 @@ The Rut is becoming a very popular race as it is one of the few true sky/mountai
 in the USA. It is featured in the SkyRunner World Series, along with the USA Series.
 Last year (when I ran it) it featured top male and female athletes such as [Kilian Jornet](https://en.wikipedia.org/wiki/K%C3%ADlian_Jornet_Burgada)
 , [Sage Canaday](http://sagecanaday.com/athlete/), and [Adam Campbell](http://running.competitor.com/2014/07/trail-running/runner-struck-lightning-keeps-running_107955)
- (among others), and for the femails: Emelie Forsberg, Kasie Enman, and Anna "Frosty" Frost. 
+ (among others), and for the females: Emelie Forsberg, Kasie Enman, and Anna "Frosty" Frost. 
  The race director is Mike Foote (who got 2nd this year at Hardrock 100, behind Kilian) and put together quite an
 epic course.
 
@@ -54,20 +54,20 @@ ready... or at least as ready as I could've been with really only 6 weeks of tra
 ![Airport view of Bozeman Mountains](/images/2014Rut/AirportView.jpg)
 
 I flew in to Bozeman Montana all hyped up and ready to take on the challenge of the race. In order to acclimatize to the altitude better, I flew in 12 hours before the race (*joke*).
-It actually worked out really well because my college roommate (3 out of 4 years) lived in Bozeman, so I was grateful that I go to spend time with the great Danny Z. He helped me out a ton with giving me a place to stay, and a car to drive as well, along with just being able to catch up with him.
+It actually worked out really well because my college roommate (3 out of 4 years) lived in Bozeman, so I was grateful that I got to spend time with the great Danny Z. He helped me out a ton with giving me a place to stay, and a car to drive, along with just being able to catch up with him.
 
 As I was driving towards Big Sky for the pre-race check in, I realized it was too late - I couldn't abandon ship now... I had already paid my entry fee, paid for a flight (I was in Montana!), and what's worse is I told
 DZ and his friends that I would be running the race, so backing out would seem pretty lame. The issue was - Lone Peak (THE mountain at Big Sky) is a **BIG** mountain, and at
-11,166 ft, I was beginning to question whether I had really thought this out and trained properly. Oh well, no turning back now - luckily, the atmosphere was quite energetic and I was mezmerized
+11,166 ft, I was beginning to question whether I had really thought this out and trained properly. Oh well, no turning back now; luckily, the atmosphere was quite energetic and I was mesmerized
 in the fact that I actually made it and was about to embark on an extremely challenging but amazing adventure!
 
 ### Race Day
 
-As I approached the staging area for the resort in the darkness of dawn, I couldn't help but think how this seems to be starting a new chapter to my life - here I am at a race where
+As I approached the staging area for the resort in the darkness of the morning, I couldn't help but think how this seems to be starting a new chapter to my life - here I am at a race where
 I don't know anyone, it's a distance that I've done before but I'll be climbing a mountain, and all in, it'll be epic if I finish. I was pumped! The temperature in the morning was 
-a cool 38 *F but slated to rise up to 60 *F with clear skies - perfect racing weather. I had my backpack filled with food, water, and room for a jacket once it warmed up, and no room for feeling sorry.
+a cool 38 *F but slated to rise up to 60 *F with clear skies - perfect racing weather. I had my backpack filled with food, water, and room for a jacket once it warmed up, but no room for feeling sorry.
 
-The race started in 3 waves - fast, intermediate, and slow. I think I picked the intermediate group just because I didn't want to wait any longer. We started in the dark and
+The race started in 3 waves - crazy, mostly crazy, and average crazy. I think I picked the intermediate group just because I didn't want to wait any longer. We started in the dark and
 immediately started climbing upwards. I was quite shocked at the fact that we were walking right at the start - wasn't this a race? Why aren't we running? So I tried running
 up the hill to pass people... I quickly found out why we were walking. My legs started burning and I was moving at roughly the same speed as the walkers, but sucking 2x the
 amount of air. Walking it was.
@@ -76,20 +76,22 @@ Once I figured that lesson out, the race became a little more manageable. I ran 
 for the more experienced runners. I watched their technique as they seemed to glide over rocky downhill terrain that looked like it could roll a few ankles. I tried to keep at my
 own pace and not focus too much on the fact that I was being passed a lot.
 
-I don't remember at what point along the race this was, but I started to feel my body get more and more tired exponentially faster than I had recalled on previous runs. I coulnd't really
+I don't remember at what point along the race this was, but I started to feel my body get more and more tired exponentially faster than I had recalled on previous runs. I couldn't really
 figure it out, but kept going. At a certain point, we got to a rocky trail that started to lead directly upward. It was then it hit me - we were now at some sort of treeline where
 the terrain was all rocks and no vegetation and the elevation is much higher than I was used to. I'm not sure I had such a clear thought at the time, but what crossed my mind
 was probably like, "Wow! We're high". Either way, the elevation was getting to me.
 
-#### Climbing
+#### Climbing up to Headwaters Ridge
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/aBO8IFbnp5E" frameborder="0" allowfullscreen></iframe>
 
 This portion of the race really blew my mind as it was just completely different than anything I could've expected to run. I don't remember the name of this section, and I'm sure
 other race reports out there may have a more detailed description of this, but this marked the first real big climb. I believe it was around mile 12 climbing up to one of the summits.
-The course was on a scree and boulder field that had maybe a 15% grade to it. The climb continued upward for what seemed like a mile or two. But at a certain point, it switched from
+The course was on a scree and boulder field that had maybe a 15% grade to it (after checking Sage Canaday's race report, he says it hit 46% grade!). The climb continued upward for what seemed like a mile or two. But at a certain point, it switched from
 being a big open field, to a scree/dirt ridgeline. I wish I could've gotten video of how precarious this ledge seemed, but I was focused on not slipping, and nothing else was
 really crossing my mind.
+
+![Descent from Headwaters Ridge](/images/2014Rut/HeadwatersDescent.jpg)
 
 The climb continued and I made it to the top of this first real big climb. I felt very much out of gas. I saw another guy at the top with some paramedics because he was having trouble
 catching his breath, and was thankful that the altitude didn't affect me as bad, but knew very well that could've been me. Back down the mountain we went, with the knowledge that we
@@ -122,7 +124,7 @@ like I put them through a whack-a-mole competition, where the whackers were padd
 likely meant I was one of the last competitors, and I surely wasn't going fast enough to pass anyone. My knees weren't getting any better, and my body felt like it was
 ready to give up. I wasn't quite sure on what my time or distance was since my watch had died around mile 5 (perfect timing, right?), but I was pretty certain I wasn't going
 to be able to make it. I kept hiking and running when I could, but I eventually resolved in my head that I will just show up at Andesite and catch a ride down since my legs
-had had enough. For me, this was the end, my DNF-march. I just had to make to Andesite to make it official.
+had had enough. For me, this was the end, my DNF-march. I just had to make it to Andesite to make it official.
 
 Just as I had come to this unfortunate decision, a runner came up behind me. It was a woman that seemed to be going at a good pace. I was surprised because I didn't understand
 how someone going so fast could be this far back. Well it turned out she was doing a rover's job and picking up the last people on the race course. She stayed with me for a while
@@ -153,7 +155,7 @@ them call out the last racer was approaching, and I got a lot of cheers as I cro
 "medal" (it's a piece of elk hide). I did it! I finished the race, and was as proud as ever!
 
 After celebrating a little at the resort and getting some food, and texting Danny and my mom that I was, in fact, alive, I drove on back to Bozeman. I ended a great day with a great night
-celebrating with the newly weds and friends! I had a little trouble going up the stairs, but for the most part, was all in one piece.
+celebrating with friends! I had a little trouble going up the stairs, but for the most part, was all in one piece.
 
 ### Final Thoughts
 
@@ -161,3 +163,7 @@ One year later, I look back at that race as still one of my proudest and toughes
 of good excuses - but the Trail Runner author Rachel Toor really gave me the push I needed (after getting me into the race in the first place), and I dug deep
 and was able to finish. I'll take a last place finish over DNF anytime. I was indeed extremely grateful for the opportunity to run the race. I didn't get a chance to go back this
 past year, but hopefully can improve my finish next time I make it out.
+
+If you haven't had enough to see yet, check this video out - produced by the makers of the Rut. [Experience the Rut - Episode 2](https://youtu.be/dQoS--WFRzI)
+
+Thanks for reading!
