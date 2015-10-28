@@ -46,8 +46,7 @@ I tried going through some of those races and quantifying the vertical gain per 
 
 &lt;p&gt;The tricky thing here is that not every race advertises its
 estimated elevation gain, and even if it does, you can&amp;rsquo;t always
-trust it (I&amp;rsquo;m looking at you Rock&amp;rsquo;N The Knob). You also can&amp;rsquo;t trust the
-advertised miles - actually, nor the ruuners&amp;hellip; well,
+trust it. You also can&amp;rsquo;t trust the advertised miles - actually, nor the ruuners&amp;hellip; well,
 especially the runners that like to challenge themselves and
 add extra off-course miles (I do this quite often&amp;hellip; some people call it getting lost).
 To assist with accuracy, I gathered together GPS data for the different races.&lt;/p&gt;
@@ -66,22 +65,26 @@ it by the total miles of the race, based on data recorded from racers.&lt;/p&gt;
 &lt;li&gt;Megatransect&lt;/li&gt;
 &lt;li&gt;Rock&amp;rsquo;N the Knob&lt;/li&gt;
 &lt;li&gt;Rothrock Challenge&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;ADDED&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
 &lt;li&gt;Frozen Snot&lt;/li&gt;
 &lt;li&gt;Laurel Highlands (50K)&lt;/li&gt;
 &lt;li&gt;Worlds End Ultra&lt;/li&gt;
 &lt;li&gt;Worlds End Ultra (50K)&lt;/li&gt;
 &lt;li&gt;Dirty Kiln Half Marathon&lt;/li&gt;
 &lt;li&gt;Pittsburgh Marathon&lt;/li&gt;
+&lt;li&gt;Rachel Carson Trail Challenge&lt;/li&gt;
+&lt;li&gt;Glacier Ridge Trail Ultra&lt;/li&gt;
+&lt;li&gt;Glacier Ridge Trail Ultra (50k)&lt;/li&gt;
+&lt;li&gt;Hell Hath No Hurry&lt;/li&gt;
+&lt;li&gt;Hell Hath No Hurry (50k)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Hopefully I can update/add to this list as I do more research and get more suggestions.&lt;/p&gt;
 
 &lt;h3 id=&#34;results:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Results&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Categorizing the races by their elevation gain/mile only reveals one degree of difficulty.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/SteepPA/SteepestPARace.jpg&#34; alt=&#34;Graph of vertical gain (ft) per mile&#34; /&gt;
 &lt;/p&gt;
@@ -97,6 +100,31 @@ with the Hyner View Challenge (50K) coming in closely behind it at 256 ft/mile.&
 &lt;/p&gt;
 
 &lt;p&gt;I decided to add in the Pittsburgh Marathon for reference on how a &amp;ldquo;hilly&amp;rdquo; road race compares.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-with-interactive-graph:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Update with Interactive Graph&lt;/h3&gt;
+
+&lt;p&gt;I put this data into a CSV file and used a webservice called &lt;a href=&#34;https://plot.ly&#34;&gt;Plotly&lt;/a&gt; to
+style the data a little differently than excel was letting me and add comprehension to the races.&lt;/p&gt;
+
+&lt;p&gt;See below:
+&lt;div&gt;
+    &lt;a href=&#34;https://plot.ly/~elShambler/244/&#34; target=&#34;_blank&#34; title=&#34;PA Races - Races by pace and Elevation gain/mile&#34; style=&#34;display: block; text-align: center;&#34;&gt;&lt;img src=&#34;https://plot.ly/~elShambler/244.png&#34; alt=&#34;PA Races - Races by pace and Elevation gain/mile&#34; style=&#34;max-width: 100%;width: 1598px;&#34;  width=&#34;1598&#34; onerror=&#34;this.onerror=null;this.src=&#39;https://plot.ly/404.png&#39;;&#34; /&gt;&lt;/a&gt;
+    &lt;script data-plotly=&#34;elShambler:244&#34;  src=&#34;https://plot.ly/embed.js&#34; async&gt;&lt;/script&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;I have added some additional data that I used to make this plot - pace. I grabbed an average of
+the top 10 finishers&amp;rsquo; paces and used that as an additional data point to graph against. The
+reasoning behind this and the above graph is to add additional character to the different
+races.&lt;/p&gt;
+
+&lt;p&gt;My hope in including this data is to give an overall enlightenment to how a race
+will feel when it comes time for raceday. The higher the bubble is, the slower
+pace you can expect, and the darker the bubble, the more climbing there is.&lt;/p&gt;
+
+&lt;p&gt;Something kind of interesting that I have been pondering after making this graph is
+if there is some sort of plateau of base pace for varying lengths of races. I know
+that as the body&amp;rsquo;s metabolism switches systems over long periods of high expenditure,
+the pace will drop, but wonder how it plays into elevation gain too?&lt;/p&gt;
 
 &lt;h3 id=&#34;data:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Data&lt;/h3&gt;
 
@@ -146,13 +174,24 @@ racer&amp;rsquo;s GPS Elevation gain data and then averaged at the end.&lt;/p&gt
 
 &lt;h3 id=&#34;final-thoughts:e821d7f6a85bcd0c723ada71edb79d57&#34;&gt;Final Thoughts&lt;/h3&gt;
 
-&lt;p&gt;Does this mean that the Wilds Marathon is the toughest race in PA?
+&lt;p&gt;Does this mean that the Wilds Marathon or Frozen Snot is the toughest race in PA?
 Heck no! The distance of the Eastern States add a whole new element
 of pain to the table. But then you have Rothrock and Megatransect
 that both add a layer of complexity with the amount of rocks and
 technical portions that also make it challenging.&lt;/p&gt;
 
-&lt;p&gt;The beauty of trail running is each race offers its own set of
+&lt;p&gt;The Frozen Snot definitely is an interesting beast because of its
+steep ascents over short distance - it approaches the climbing
+difficulty of a VK (vertical kilometer race). Runnability is also
+huge into the challenges of a race - this has to do with the
+technicality of the course. As I said above, the body&amp;rsquo;s method
+of producing energy shifts at a certain point (I don&amp;rsquo;t remember
+what it is, but I want to say after maybe 8 hours of heavy
+calorie expenditure?) and after that, maintaining a constant
+energy output becomes even more challenging.&lt;/p&gt;
+
+&lt;p&gt;All this to say that no single race is quantitatively better than
+another race. The beauty of trail running is each race offers its own set of
 challenges. I think the lesson to learn here is you may need to try
 each one to determine which is the most challenging for yourself!&lt;/p&gt;
 </description>
