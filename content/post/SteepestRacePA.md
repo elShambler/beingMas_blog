@@ -36,8 +36,7 @@ I tried going through some of those races and quantifying the vertical gain per 
 
 The tricky thing here is that not every race advertises its 
 estimated elevation gain, and even if it does, you can't always 
-trust it (I'm looking at you Rock'N The Knob). You also can't trust the
-advertised miles - actually, nor the ruuners... well, 
+trust it. You also can't trust the advertised miles - actually, nor the ruuners... well, 
 especially the runners that like to challenge themselves and 
 add extra off-course miles (I do this quite often... some people call it getting lost).
 To assist with accuracy, I gathered together GPS data for the different races.
@@ -55,19 +54,23 @@ So far the races are as follows (in alphabetical order):
  - Megatransect
  - Rock'N the Knob
  - Rothrock Challenge
- 
- *ADDED*
- 
  - Frozen Snot
  - Laurel Highlands (50K)
  - Worlds End Ultra
  - Worlds End Ultra (50K)
  - Dirty Kiln Half Marathon
  - Pittsburgh Marathon
+ - Rachel Carson Trail Challenge
+ - Glacier Ridge Trail Ultra
+ - Glacier Ridge Trail Ultra (50k)
+ - Hell Hath No Hurry
+ - Hell Hath No Hurry (50k)
 
 Hopefully I can update/add to this list as I do more research and get more suggestions.
 
 ### Results
+
+> Categorizing the races by their elevation gain/mile only reveals one degree of difficulty.
 
 ![Graph of vertical gain (ft) per mile](/images/SteepPA/SteepestPARace.jpg)
 
@@ -82,6 +85,32 @@ Below you can see for yourself, all the numbers that went into the graph above.
 ![Race data](/images/SteepPA/RaceData.jpg)
 
 I decided to add in the Pittsburgh Marathon for reference on how a "hilly" road race compares.
+
+### Update with Interactive Graph
+
+I put this data into a CSV file and used a webservice called [Plotly](https://plot.ly) to
+style the data a little differently than excel was letting me and add comprehension to the races.
+
+See below:
+<div>
+    <a href="https://plot.ly/~elShambler/244/" target="_blank" title="PA Races - Races by pace and Elevation gain/mile" style="display: block; text-align: center;"><img src="https://plot.ly/~elShambler/244.png" alt="PA Races - Races by pace and Elevation gain/mile" style="max-width: 100%;width: 1598px;"  width="1598" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="elShambler:244"  src="https://plot.ly/embed.js" async></script>
+</div>
+
+I have added some additional data that I used to make this plot - pace. I grabbed an average of
+the top 10 finishers' paces and used that as an additional data point to graph against. The
+reasoning behind this and the above graph is to add additional character to the different
+races.
+
+My hope in including this data is to give an overall enlightenment to how a race
+will feel when it comes time for raceday. The higher the bubble is, the slower
+pace you can expect, and the darker the bubble, the more climbing there is.
+
+Something kind of interesting that I have been pondering after making this graph is
+if there is some sort of plateau of base pace for varying lengths of races. I know
+that as the body's metabolism switches systems over long periods of high expenditure,
+the pace will drop, but wonder how it plays into elevation gain too?
+
 
 ### Data
 Since the crux of what I'm saying relies on data that I put together, 
@@ -128,12 +157,23 @@ I, again, used the same method of just pulling different
 racer's GPS Elevation gain data and then averaged at the end.
 
 ### Final Thoughts
-Does this mean that the Wilds Marathon is the toughest race in PA? 
+Does this mean that the Wilds Marathon or Frozen Snot is the toughest race in PA? 
 Heck no! The distance of the Eastern States add a whole new element 
 of pain to the table. But then you have Rothrock and Megatransect 
 that both add a layer of complexity with the amount of rocks and 
 technical portions that also make it challenging.
 
-The beauty of trail running is each race offers its own set of 
+The Frozen Snot definitely is an interesting beast because of its
+steep ascents over short distance - it approaches the climbing
+difficulty of a VK (vertical kilometer race). Runnability is also
+huge into the challenges of a race - this has to do with the
+technicality of the course. As I said above, the body's method
+of producing energy shifts at a certain point (I don't remember
+what it is, but I want to say after maybe 8 hours of heavy
+calorie expenditure?) and after that, maintaining a constant
+energy output becomes even more challenging.
+
+All this to say that no single race is quantitatively better than
+another race. The beauty of trail running is each race offers its own set of 
 challenges. I think the lesson to learn here is you may need to try 
 each one to determine which is the most challenging for yourself!
