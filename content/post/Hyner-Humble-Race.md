@@ -62,21 +62,21 @@ category but quickly gaining in popularity.
 
 ### Everyone Likes A Challenge
 
-Going back to when the 50k races began, there were initially 99 entrants
+Going back to when the first 50k was offered, there were initially 99 entrants
 in the race. Now there are 258. My how the times have changed.
 
 ![Race Participants](/images/Hyner2016/Race%20Participants-1.png)
 
 You might notice that in 2015, the 25k has the most participants and
 decreased in 2016 - this is due to the increased interest in the 50k.
-There are certain rules that allow for a certain number of people to be
+There are rules that allow for a certain number of people to be
 out on the course at one time. Because of the rising popularity of the
 50k, the number of entrants allowed to the 25k was cut.
 
 This past year, 2016 saw the most challengers on the 50k course and an
-increase from 155 people to 258. So with the added number of legs and
-competition on the course, how does this change the speed of the
-finishers?
+increase from 155 people to 258 from last year to this year. 
+So with the added number of legs and competition on the course, 
+how does this change the speed of the finishers?
 
 ### Getting Faster
 
@@ -89,17 +89,17 @@ talent, the overall pace of that race category is slower than than 50k.
 This happens simply because there are runners and hikers taking on the
 25k, while the 50k is reserved for anyone that has met the time
 constraints on a qualifying race. So there's a selective process for
-those attempting the 50k, along with the fact that it is truly a
-difficult race.
+those attempting the 50k where hikers are filtered out.
 
-Again, that doesn't mean the 25k is easy.
+Again, that doesn't mean the 25k is just a frolick in the woods.
 
 If you then look at how the top finisher's times have increased over the
 years - you can get a sense for how the speed has been growing.
 
 ![No. 1 in 25k - Matt Lipsey](/images/Hyner2016/Hyner_MattLipsey.jpg)
 
-In 2015, you'll notice that the average times went up actually. [Matt Lipsey commented on how that year felt slow](http://matthiaslipshitz.blogspot.com/2016/04/hyner-worth-view.html),
+In 2015, you'll notice that the average times for the 25k actually went up
+from the previous year. [Matt Lipsey commented on how that year felt slow](http://matthiaslipshitz.blogspot.com/2016/04/hyner-worth-view.html),
 and it was certainly reflected in finishing times. Otherwise, with the
 increase in participants to the 50k, the finishers times got way faster.
 
@@ -111,7 +111,7 @@ more training and more rigorous training to be faster than last year?
 Probably a combination of both. But you can definitely see how the depth
 of the field is increasing as well. By that, I mean, the number of
 people clustered around the same times and how easy it is to jump ranks
-based on an increase in time.
+based on a faster finish time.
 
 In other words, the standard deviation. I left this part out, but the
 competition has certainly become tighter.
